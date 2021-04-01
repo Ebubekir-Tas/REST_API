@@ -1,0 +1,34 @@
+GET http://localhost:3000/person
+#view all
+
+###
+
+GET http://localhost:3000/person/60660f64021fea261c0b5b3a
+#view by id
+
+###
+
+POST http://localhost:3000/person
+Content-Type: application/json
+
+{
+    "name": "Ebubekir Tas"
+}
+
+#POST = create
+
+###
+
+DELETE http://localhost:3000/person/60660f64021fea261c0b5b3a
+#delete
+
+###
+
+PATCH http://localhost:3000/person/60660f64021fea261c0b5b3a
+Content-Type: application/json
+
+{
+    "name": "New Name"
+}
+
+#PATCH = change
