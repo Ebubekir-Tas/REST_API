@@ -33,3 +33,7 @@ This is an example of how you may give instructions on setting up your project l
  
  * run `npm run start` in terminal
  * View Schema and send requests with Postman or REST Client VsCode extension.
+
+## Preview
+
+![REST_API_IMG](https://user-images.githubusercontent.com/65694925/113342128-17953380-92fc-11eb-8aff-56bf5c3ea4b7.png)
