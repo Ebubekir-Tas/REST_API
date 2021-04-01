@@ -31,4 +31,5 @@ This is an example of how you may give instructions on setting up your project l
  
  ## Usage
  
- View Schema and send requests with Postman or REST Client VsCode extension.
+ * run `npm run start` in terminal
+ * View Schema and send requests with Postman or REST Client VsCode extension.
