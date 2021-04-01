@@ -3,7 +3,7 @@ GET http://localhost:3000/person
 
 ###
 
-GET http://localhost:3000/person/60660f64021fea261c0b5b3a
+GET http://localhost:3000/
 #view by id
 
 ###
@@ -19,12 +19,12 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3000/person/60660f64021fea261c0b5b3a
+DELETE http://localhost:3000/person/
 #delete
 
 ###
 
-PATCH http://localhost:3000/person/60660f64021fea261c0b5b3a
+PATCH http://localhost:3000/person/
 Content-Type: application/json
 
 {
