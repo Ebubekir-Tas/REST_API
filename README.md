@@ -36,4 +36,4 @@ This is an example of how you may give instructions on setting up your project l
 
 ## Preview
 
-![REST_API_IMG](https://user-images.githubusercontent.com/65694925/113342128-17953380-92fc-11eb-8aff-56bf5c3ea4b7.png)
+![y0JDUgu](https://user-images.githubusercontent.com/65694925/113458915-f60e7780-93e1-11eb-8f12-1f256fcc2017.png)
